@@ -1,0 +1,46 @@
+{
+    "AZ": "Arizona Diamondbacks",
+    "ATL": "Atlanta Braves",
+    "BAL": "Baltimore Orioles",
+    "BOS": "Boston Red Sox",
+    "CWS": "Chicago White Sox",
+    "CHC": "Chicago Cubs",
+    "CIN": "Cincinnati Reds",
+    "CLE": "Cleveland Guardians",
+    "COL": "Colorado Rockies",
+    "DET": "Detroit Tigers",
+    "HOU": "Houston Astros",
+    "KC":  "Kansas City Royals",
+    
+    "ANA": "Anaheim Angels",
+    "LAA": "Los Angeles Angels",
+
+    "LA": "Los Angeles Dodgers",
+    "LAD": "Los Angeles Dodgers",
+    
+    "FLA": "Florida Marlins",
+    "MIA": "Miami Marlins",
+
+    "MIL": "Milwaukee Brewers",
+    "MIN": "Minnesota Twins",
+    "NYY": "New York Yankees",
+    "NYM": "New York Mets",
+    "OAK": "Oakland Athletics",
+    "PHI": "Philadelphia Phillies",
+    "PIT": "Pittsburgh Pirates",
+    "SD":  "San Diego Padres",
+    "SF":  "San Francisco Giants",
+    "SEA": "Seattle Mariners",
+    "STL": "St. Louis Cardinals",
+
+    "TBD": "Tampa Bay Devil Rays",
+    "TB":  "Tampa Bay Rays",
+
+    "TEX": "Texas Rangers",
+    "TOR": "Toronto Blue Jays",
+
+    "MON": "Montreal Expos",
+    "MTL": "Montreal Expos",
+    "WSH": "Washington Nationals",
+    "WAS": "Washington Nationals"
+}
